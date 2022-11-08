@@ -42,29 +42,32 @@ header nav {
 
 /* MAIN */
 
-
 a{
   color: rgb(255, 255, 255)!important;
   text-decoration: none;
 }
 /* FOOTER */
 h5{
+  color: #93F3E8;
   font-family: var(--font-texto)!important;
   font-size: 30px;
 }
 form h5 {
   font-size: 30px;
-  color: #0dcaf0!important;
+  color: #93F3E8!important;
   font-family: var(--font-texto);
 }
 form p {
-  color:#6c757d!important;
+  color: #93F3E8!important;
 }
 
 .img-shark{
   width: 100vw;
 }
 
+.featurette-divider{
+  color: whitesmoke;
+}
 
 /* h5 {
   font-size: 25px;
@@ -77,40 +80,46 @@ form p {
   font-family: var(--font-titulo);
 }
 
-#titulo-cyber {
+#titulo-shark {
+  color: white;
   font-family: var(--font-titulo);
   font-size: 80px;
 }
 
-#subtitulo-cyber {
+#subtitulo-shark {
   font-family: var(--font-texto);
   font-size: 20px;
 }
 
 .nav-item {
   font-size: 20px;
+  display: flex;
 }
 
 
 a, p {
+  color: #93F3E8;
   font-family: var(--font-texto);
 }
 
 h1{
   font-family: var(--font-texto);
-  color: #0dcaf0;
+  color: #93F3E8;
   font-size: 50px!important;
   text-shadow: 2px 2px 4px black;
 }
 #pic-logo{
-  width: 90px;
+  width: 230px;
+  padding-top: 20px;
 }
 
-h3, h4, h5, .titulos-submenores {
+h2, h3, h4, h5, .titulos-submenores {
+  color: #93F3E8;
   font-family: var(--font-doistexto);
 }
 
 .titulos-menores {
+  color: white;
   font-family: var(--font-texto);
 }
 
@@ -125,5 +134,28 @@ h3, h4, h5, .titulos-submenores {
 #img-dois {
   width: 400px;
   margin-left: 5px;
+} 
+
+.we-us{
+  display: flex;
+  justify-content: center;
+  font-family: var(--font-texto);
+  font-size: 60px;
+  color: white;
+}
+
+.profile-man{
+  display: flex;
+  align-items: center;
+}
+
+.sharks-inv{
+  display: flex;
+ justify-content: space-around;
+
+}
+
+.color-red{
+  color: #93F3E8;
 }
 

@@ -26,9 +26,12 @@ main{
 }
 
 .card.mb-4.rounded-3.shadow-sm{
-  align-content: center;
+  margin-right: 0;
   width: 360px;
   height: 400px;
+  margin-left: 210px;
+
+  
 }
 
 .container.main.row.text-center {
@@ -113,5 +116,24 @@ form p {
     margin-left: 40px;
     align-content: center;
     width: 250px;
+  }
+}
+
+@media only screen and (max-width: 790px) {
+
+  .img-fluid{
+    width: 50%;
+  }
+  .img-shark{
+    width: 100vw;
+  }
+}
+
+
+
+@media only screen and (max-width: 500px) {
+
+  .img-fluid{
+    padding: 100px;
   }
 }
