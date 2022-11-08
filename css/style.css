@@ -1,4 +1,3 @@
-
 /* TRAZENDO FONTS */
 @font-face {
   font-family: Oitobit;
@@ -19,9 +18,9 @@
 :root {
   --font-doistexto: 'Oitobittxt2'; 
   --font-titulo: 'Oitobit';
-  --font-texto: 'Oitobit-txt'
-  
+  --font-texto: 'Oitobit-txt';
 }
+
 
 /* HEADER */
 
@@ -158,4 +157,3 @@ h2, h3, h4, h5, .titulos-submenores {
 .color-red{
   color: #93F3E8;
 }
-

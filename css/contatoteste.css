@@ -1,7 +1,8 @@
 
-*{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+@font-face {
+    font-family: Oitobit-txt2;
+    src: url(../font/superstarorig_memesbruh03.ttf);
+  }
 
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -34,4 +35,5 @@ li{
 .nav-link .p-0 .text-muted{
      color: blue;
 }
+
 
