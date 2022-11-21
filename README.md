@@ -1,4 +1,4 @@
-<strong>Clique aqui para acessar o site: 🔗 ###############</strong>
+<strong>Clique aqui para acessar o site: https://vegzx.github.io/I-Shark-Tech-I-Projeto-Res-lia-M-dulo-2-Final/ </strong>
 
 <h2>📄 Introdução </h2>
 
